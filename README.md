@@ -1,29 +1,34 @@
-# Interactive Retail Sales Dashboard (Excel)
+# 📊 Excel Data Analytics & Business Automation Portfolio
 
-## Project Overview
-A professional, automated Excel dashboard designed for small retail businesses to track daily sales, monitor salesperson performance, and analyze product category trends.
+Welcome to my portfolio! This repository showcases advanced Excel solutions designed to streamline business operations, automate manual tasks, and provide actionable data insights.
 
-## Features
-- **Automated Data Processing:** Uses Excel Tables and Pivot Tables to ensure the dashboard updates instantly when new data is added.
-- **Key Performance Indicators (KPIs):** Real-time tracking of Total Revenue ($96.6K), Total Orders, Units Sold, and Average Order Value (AOV).
-- **Interactive Visualizations:** - Sales by Product (Column Chart)
-  - Sales by Category (Doughnut Chart)
-  - Salesperson Performance (Bar Chart)
-  - Daily Sales Trend (Line Chart)
-- **Dynamic Filtering:** Includes Slicers for 'Category' and 'Salesperson' for deep-dive analysis.
+## 📁 Project Directory
 
-## File Structure
-- `Sales_Data`: The raw data entry sheet.
-- `Calculations`: A hidden sheet containing the Pivot Table logic.
-- `Dashboard`: The final user-facing visual interface.
+### 1. [Retail Sales Dashboard](./Project-01-Sales-Dashboard/)
+A high-level performance tracker for retail owners to monitor daily sales trends and staff performance.
+* **Core Features:** Interactive Pivot Charts, KPI Cards, and Slicers.
+* **Tech:** Pivot Tables, Conditional Formatting, Data Modeling.
 
-## How to Use
-1. Enter daily sales details in the `Sales_Data` sheet.
-2. Go to the `Data` tab and click **Refresh All**.
-3. View the updated metrics and charts on the `Dashboard` sheet.
+### 2. [Full E-Commerce Management System](./Project-02-Ecommerce-System/)
+A complete "Business-in-a-Box" for online sellers, managing everything from inventory to final invoicing.
+* **Core Features:** Dynamic Order Search, Automated Invoicing, Stock Alerts, and Delivery Tracking.
+* **Tech:** XLOOKUP, SUMIFS, Form Controls, Data Validation.
 
-## Skills Demonstrated
-- Data Cleaning & Structuring
-- Advanced Pivot Table Logic
-- Dashboard UI/UX Design
-- Business Metric Calculation (AOV, Growth Trends)
+---
+
+## 🛠️ Technical Skill Set
+* **Data Analysis:** Trend Analysis, Sales Forecasting, Profit Margin Calculation.
+* **Automation:** Dynamic formulas (XLOOKUP, FILTER, INDEX/MATCH) and Macro-free automation.
+* **Data Visualization:** Clean, UI/UX focused dashboards that remove the "spreadsheet look."
+* **System Design:** Creating relational data structures within Excel.
+
+## 🚀 How to Navigate
+Each project is contained within its own folder. Inside each folder, you will find:
+1. The **Excel Source File** (.xlsx).
+2. A **Project README** explaining the specific logic and business value of that tool.
+3. Screenshots of the Dashboards.
+
+---
+📫 **Let's Connect!**
+* **LinkedIn:** [Insert Your LinkedIn Profile Link]
+* **Email:** [Insert Your Professional Email]
