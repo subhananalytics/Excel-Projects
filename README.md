@@ -30,5 +30,4 @@ Each project is contained within its own folder. Inside each folder, you will fi
 
 ---
 📫 **Let's Connect!**
-* **LinkedIn:** [Insert Your LinkedIn Profile Link]
-* **Email:** [Insert Your Professional Email]
+* **Email:** subhan.analytics@gmail.com
