@@ -14,7 +14,7 @@ A complete "Business-in-a-Box" for online sellers, managing everything from inve
 * **Core Features:** Dynamic Order Search, Automated Invoicing, Stock Alerts, and Delivery Tracking.
 * **Tech:** XLOOKUP, SUMIFS, Form Controls, Data Validation.
 
-### 3. [Financial & Cash Flow Control System](./Project-3-Financial Control System/)
+### 3. [Financial & Cash Flow Control System](./03-Financial-CashFlow-System/)
 A strategic tool for startups and agencies to track liquidity and predict business longevity.
 * **Core Features:** 12-Month Cash Flow Forecasting, Burn Rate Analysis, and Profit vs. Expense breakdown.
 * **Tech:** Advanced Date Logic (EOMONTH), SUMIFS, Financial Modeling, and UX-focused Dashboarding.
