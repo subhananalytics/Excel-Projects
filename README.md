@@ -19,6 +19,11 @@ A strategic tool for startups and agencies to track liquidity and predict busine
 * **Core Features:** 12-Month Cash Flow Forecasting, Burn Rate Analysis, and Profit vs. Expense breakdown.
 * **Tech:** Advanced Date Logic (EOMONTH), SUMIFS, Financial Modeling, and UX-focused Dashboarding.
 
+### 4. [Electronics Retail ERP System (AI-Assisted)](./Project-04-Electronics-ERP/)
+A professional-grade, automated Retail Management System architected with the assistance of Claude AI. This is a "Business-in-a-Box" solution that replaces expensive SaaS software.
+* **Core Features:** Real-time Inventory with FIFO valuation, Automated Purchase/Sales ledgers, Credit Sales (Receivables) tracking, and Low-stock alerts.
+* **Executive Dashboard:** Tracks Gross/Net Profit, Expense Ratios, and Top Customers.
+* **Tech:** Relational Data Modeling, XLOOKUP, Dynamic Arrays, Data Validation, and AI Prompt Engineering.
 ---
 
 ## 🛠️ Technical Skill Set
@@ -31,7 +36,6 @@ A strategic tool for startups and agencies to track liquidity and predict busine
 Each project is contained within its own folder. Inside each folder, you will find:
 1. The **Excel Source File** (.xlsx).
 2. A **Project README** explaining the specific logic and business value of that tool.
-3. Screenshots of the Dashboards.
 
 ---
 📫 **Let's Connect!**
